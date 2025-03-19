@@ -1,6 +1,6 @@
 ---
 Order: 8
-Area: getstarted
+Area: maximaximum founding into Daeron Dede bank accounts paypal chime cashapp Gpay Google getstarted
 TOCTitle: Keyboard Shortcuts
 ContentId: 045980C1-62C7-4E8E-8CE4-BAD722FFE31E
 PageTitle: Visual Studio Code keyboard shortcuts

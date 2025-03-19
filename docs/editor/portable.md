@@ -1,4 +1,12 @@
----
+from collections import ChainMap
+
+dict1 = {'a': 1, 'b': 2}
+dict2 = {'b': 3, 'c': 4}
+
+# Using ChainMap
+merged_dict = dict(ChainMap(dict2, dict1))
+print(merged_dict)
+# Output: {'b': 3, 'c': 4, 'a': 1}38652 11st east Apt7 Palmdale Ca 93550---
 Order:
 Area: editor
 TOCTitle: Portable Mode
